@@ -1,5 +1,5 @@
 # Covid-19 Data Exploration & Analysis with SQL & Power BI.
----
+
 ## Tech Stack
 **Google Spreadsheet**, **MSSQL**, **Microsoft Power BI.**
 
