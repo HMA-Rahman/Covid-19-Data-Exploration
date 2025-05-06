@@ -24,17 +24,8 @@ You can checkout the SQL queries [here](https://github.com/true-B0T/Covid-19-Dat
 
 After that, I imported these data to Power BI. Where I made an interactive dashboard which shows all these information at a glance. 
 
-Here are some screenshots of the report I made. 
 
-<img src="Dashboard/Full Final 1.png" width="1280" height="720"></br>
+##The final Dashboard
 
-<img src="Dashboard/Partial 1.png" width="1280" height="720"></br>
-
-<img src="Dashboard/Partial 2.png" width="1280" height="720"></br>
-
-<img src="Dashboard/Partial 3.png" width="1280" height="720"></br>
-
-<img src="Dashboard/Partial 4.png" width="1280" height="720"></br>
-
-<img src="Dashboard/Showing 2020.png" width="1280" height="720"></br>
+![Final_Dashboard](https://github.com/HMA-Rahman/Covid-19-Data-Exploration/tree/18649e279920462afc15522e06daaf84a7dfc4e4/Screenshots)
 
