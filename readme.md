@@ -28,7 +28,7 @@ You can checkout the SQL queries [here](https://github.com/true-B0T/Covid-19-Dat
 After that, made a dashboard using Power BI which shows all these information at a glance. 
 
 --- 
-##The final Dashboard.
+## The final Dashboard.
 
 ![Dashboard](https://github.com/HMA-Rahman/Covid-19-Data-Exploration/tree/18649e279920462afc15522e06daaf84a7dfc4e4/Screenshots)
 
