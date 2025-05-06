@@ -27,5 +27,5 @@ After that, I imported these data to Power BI. Where I made an interactive dashb
 
 ##The final Dashboard
 
-![Final_Dashboard](https://github.com/HMA-Rahman/Covid-19-Data-Exploration/tree/18649e279920462afc15522e06daaf84a7dfc4e4/Screenshots)
+![Image_Alt](https://github.com/HMA-Rahman/Covid-19-Data-Exploration/tree/18649e279920462afc15522e06daaf84a7dfc4e4/Screenshots)
 
